@@ -2,7 +2,7 @@
 
 ![CI/CD](https://github.com/agile-students-fall2025/4-final-gesturetalk/actions/workflows/deploy.yml/badge.svg)
 
-# [See the deployed app here!](https://www.shuwameetingapp.com/)
+* Deployed app is depreciated. Please see live demo video or deploy locally instead. Thank you.
 
 
 # Product Vision Statement
