@@ -2,7 +2,7 @@
 
 ![CI/CD](https://github.com/agile-students-fall2025/4-final-gesturetalk/actions/workflows/deploy.yml/badge.svg)
 
-* Deployed app is depreciated. Please see live demo video or deploy locally instead. Thank you.
+* Deployed app is depreciated. Please see [demo video here](https://drive.google.com/file/d/1VW2KPtFe-J9U829brd20mCYbzgrkz2Kc/view?usp=sharing) or deploy locally instead. Thank you.
 
 
 # Product Vision Statement
